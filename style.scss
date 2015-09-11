@@ -227,10 +227,10 @@ img {
   img {
     border-radius: 50%;
     box-shadow:1px 1px 4px tomato;
-    transition:transform 1s ease-out
+    -moz-transition:transform 1s ease-out;-webkit-transition:transform 1s ease-out;-o-transition:transform 1s ease-out;transition:transform 1s ease-out;
   }
   img:hover {
-    transform:rotate(360deg);
+    -ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg);
   }
 }
 
