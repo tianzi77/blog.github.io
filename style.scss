@@ -276,7 +276,8 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font: normal normal normal 1.2em/1.5em 'proxima-nova',Tahoma,Helvetica,'Lucida Grande',Georgia,Verdana;
+    //font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
