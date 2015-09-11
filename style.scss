@@ -227,9 +227,12 @@ img {
   img {
     border-radius: 50%;
     box-shadow:1px 1px 4px tomato;
+    transition:all 2s linear
+    -webkit-transition:all 2s linear;
   }
   img:hover {
     transform:rotate(360deg);
+    -webkit-transform:rotate(360deg);
   }
 }
 
