@@ -99,7 +99,24 @@ h1 {
     color: inherit;
   }
 }
-
+.site-name{
+	a{
+	display: inline-block;
+	position: relative;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        animation: slide 2s linear infinite;
+        -webkit-animation: zww 3s linear infinite;
+        background-size: auto 28px;
+        background-position: left 0px;
+        background-image: linear-gradient(to bottom, #662345 0px, #662345 5px, black 5px, #661510 10px, #661510 12px, black 12px, #276e97 15px, #276e97 18px, black 18px, #af852d 19px, #af852d 20px, black 20px, #662345 22px, #662345 24px, black 24px, #661510 26px, #661510 27px, black 27px, #276e97 28px, #276e97 28px);
+	}
+	        @keyframes zww {
+            100% {
+                background-position: left -28px;
+            }
+        }
+}
 h2 {
   font-size: 24px;
 }
