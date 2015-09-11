@@ -53,6 +53,27 @@
         </div>
     </div>
 
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script>
+          var isFirstToggleMusic = true;
+
+        function toggleMusicPanel() {
+            $('#music-control').toggleClass('on');
+            if (isFirstToggleMusic) {
+                isFirstToggleMusic = false;
+            }
+        }
+        $(function() {
+            $('#music-control').mouseenter(function() {
+                $('#music-control').addClass('on');
+                $('#music-content').show();
+            })
+            $('#music-content').mouseleave(function() {
+                $('#music-control').removeClass('on');
+                $('#music-content').hide();
+            })
+        })
+</script>
     {% include analytics.html %}
   </body>
 </html>
