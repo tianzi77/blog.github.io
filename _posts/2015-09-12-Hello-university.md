@@ -4,10 +4,10 @@ title: 四年情!
 ---
 
  ![_config.yml](/images/1.jpeg)
-![_config.yml](http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=24e13580f136afc30a0c3b658329d0b5/2fdda3cc7cd98d1026477471273fb80e7aec90da.jpg)
-![_config.yml](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=52d9bd6f3c292df593c3a8158c016711/267f9e2f07082838d907a454be99a9014c08f16c.jpg)
-![_config.yml](http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=45fc9d79b5de9c82a265fd8f5cb1bb7b/f3d3572c11dfa9ec5db72f5764d0f703908fc1d1.jpg)
-![_config.yml](http://e.picphotos.baidu.com/album/s%3D680%3Bq%3D90/sign=055781cf6a81800a6ae58a06810e42c7/0bd162d9f2d3572cc5d0e49c8c13632762d0c344.jpg)
+![_config.yml](/images/2.jpeg)
+![_config.yml](/images/3.jpeg)
+![_config.yml](/images/4.jpeg)
+![_config.yml](/images/5.jpeg)
 
   <p>周末凉风煽情，想写点文字。并没有很好的思绪，我从来没想过大学专业课什么都没学过的我居然也会走上技术这条道路，我也一直不解技术有什么未来？是社会在改变着技术还是技术推动社会？我深以为是前者，包括现在自己所从事的也完全是兴趣而已，与金钱生存一点关系都没有，so，just for fun。我也很难想象我能在一年内把挂科的十几科全部想方设法整过以至于顺利毕业，甚至快毕业了我也没想过靠技术去找一份工作，从小到大不羁放纵爱自由习惯了，可能间接性的导致我编程毫无逻辑，那么就让我毫无逻辑的再码字一次吧！</p>
        <p>想起大学四年，真的恍如梦一场。</P>
