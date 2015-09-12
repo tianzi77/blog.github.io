@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-var zhangweiwei = new Person({ title: "前端工程师", spoken: "一生想做浪漫极客!" });.
+var zhangweiwei = new Person({ title: "前端工程师", spoken: "一生想做浪漫极客!" });
 
 ### Contact me
 
