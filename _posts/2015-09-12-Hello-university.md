@@ -4,7 +4,10 @@ title: 四年情!
 ---
 
 ![_config.yml](http://b260.photo.store.qq.com/psb?/V14NG3L02CpznB/dK3kZknqYYoa1sAjaTZqmYMMP.CHtvQV1i1gWxsVCQw!/o/YfciBZulPQAAYs.KAJvIOwAAb0OoBptZOwAA&bo=ngL3ASADWAIBADQ!&rf=viewer_4)
-![_config.yml](http://b260.photo.store.qq.com/psb?/V14NG3L02CpznB/dK3kZknqYYoa1sAjaTZqmYMMP.CHtvQV1i1gWxsVCQw!/o/YfciBZulPQAAYs.KAJvIOwAAb0OoBptZOwAA&bo=ngL3ASADWAIBADQ!&rf=viewer_4)
+![_config.yml](http://b260.photo.store.qq.com/psb?/V14NG3L02CpznB/SQWXrvSFRyu*wirIoLYZ28EdmtzwLcxIqfcJpwZjcSE!/o/YbaXAJv1OwAAYjgkApttPQAAb7GcA5tMPQAA&bo=ngL3ASADWAIBADQ!&rf=viewer_4)
+![_config.yml](http://r.photo.store.qq.com/psb?/V14NG3L0240SwD/w3FwXn0HQEphYajwK0I06Y7GIypbCw1QEJ17ZOo8vdU!/o/dGMC*Z2CFAAA&bo=IANYAkAGsAQBAKw!&rf=viewer_4)
+![_config.yml](http://b264.photo.store.qq.com/psb?/V14NG3L0240SwD/8c0vL8rC5qzR8zexIezSHEQNWI6uan9*zqJBkx6C5ps!/b/dMXfYp2GFAAA&bo=IANYAkAGsAQBCKQ!&rf=viewer_4)
+![_config.yml](http://r.photo.store.qq.com/psb?/V14NG3L0240SwD/vHrObtP6P*y7ipOHlo1IDuxuGAjAsR6DuBCF*tKUuWY!/o/dLVvtoa4KAAA&bo=RAIgA4QCeQMBAL4!&rf=viewer_4)
 
   <p>周末凉风煽情，想写点文字。并没有很好的思绪，我从来没想过大学专业课什么都没学过的我居然也会走上技术这条道路，我也一直不解技术有什么未来？是社会在改变着技术还是技术推动社会？我深以为是前者，包括现在自己所从事的也完全是兴趣而已，与金钱生存一点关系都没有，so，just for fun。我也很难想象我能在一年内把挂科的十几科全部想方设法整过以至于顺利毕业，甚至快毕业了我也没想过靠技术去找一份工作，从小到大不羁放纵爱自由习惯了，可能间接性的导致我编程毫无逻辑，那么就让我毫无逻辑的再码字一次吧！</p>
        <p>想起大学四年，真的恍如梦一场。</P>
