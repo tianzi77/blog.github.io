@@ -3,7 +3,7 @@ layout: post
 title: 四年情!
 ---
 
-![_config.yml](http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=24e13580f136afc30a0c3b658329d0b5/2fdda3cc7cd98d1026477471273fb80e7aec90da.jpg)
+<img src="http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=24e13580f136afc30a0c3b658329d0b5/2fdda3cc7cd98d1026477471273fb80e7aec90da.jpg" alt='兄弟情谊'>
 ![_config.yml](http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=24e13580f136afc30a0c3b658329d0b5/2fdda3cc7cd98d1026477471273fb80e7aec90da.jpg)
 ![_config.yml](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=52d9bd6f3c292df593c3a8158c016711/267f9e2f07082838d907a454be99a9014c08f16c.jpg)
 ![_config.yml](http://h.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=45fc9d79b5de9c82a265fd8f5cb1bb7b/f3d3572c11dfa9ec5db72f5764d0f703908fc1d1.jpg)
