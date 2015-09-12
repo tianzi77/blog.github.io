@@ -153,10 +153,12 @@ p {
 
 a {
   color: $blue;
+  transition:all .3s linear;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    border-bottom:1px solid $blue;
   }
 }
 
