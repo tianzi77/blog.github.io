@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个喜欢玩样式的页面仔!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+var zhangweiwei = new Person({ title: "前端工程师", spoken: "一生想做浪漫极客!" });.
 
 ### Contact me
 
