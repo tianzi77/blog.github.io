@@ -72,7 +72,7 @@ CSS版小迷宫：http://lab.tianyizone.com/maze/
 
   ![enter description here][8]
   
-  还有，感谢小志送的花，就这样吧！撸码咯～
+  还 有，感谢小志送的花，就这样吧！撸码咯～
 
 
   [1]: ./images/1.png "1.png"
