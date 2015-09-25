@@ -322,6 +322,9 @@ nav {
     //font-weight: 300;
     letter-spacing: 1px;
     position:relative;
+    		$:hover{
+    		text-shadow:1px 0 20px #accdef;
+    		}
               &:hover:before {
             background: #abcdef;
             left: 0;
