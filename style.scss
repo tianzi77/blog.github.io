@@ -155,46 +155,11 @@ a {
   color: $blue;
   transition:color .3s linear;
   text-decoration: none;
-  position:relative;
   cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
-          &:hover:before {
-            background: #abcdef;
-            left: 0;
-        }
-        
-        &:hover:after {
-            background: #abcdef;
-            right: 0;
-        }
-        
-        &:before {
-            content: "";
-            display: block;
-            height: 4px;
-            background: none;
-            position: absolute;
-            top: 30px;
-            left: 50%;
-            width: 50%;
-            -webkit-transition: 0.5s;
-            transition: all 0.5s;
-        }
-        
-        &:after {
-            content: "";
-            display: block;
-            height: 4px;
-            background: none;
-            position: absolute;
-            top: 30px;
-            right: 50%;
-            width: 50%;
-            -webkit-transition: 0.5s;
-            transition: all 0.5s;
-        }
+
 }
 
 
@@ -356,6 +321,42 @@ nav {
     font: normal normal normal 1.2em/1.5em 'proxima-nova',Tahoma,Helvetica,'Lucida Grande',Georgia,Verdana;
     //font-weight: 300;
     letter-spacing: 1px;
+    position:relative;
+              &:hover:before {
+            background: #abcdef;
+            left: 0;
+        }
+        
+        &:hover:after {
+            background: #abcdef;
+            right: 0;
+        }
+        
+        &:before {
+            content: "";
+            display: block;
+            height: 4px;
+            background: none;
+            position: absolute;
+            top: 30px;
+            left: 50%;
+            width: 50%;
+            -webkit-transition: 0.5s;
+            transition: all 0.5s;
+        }
+        
+        &:after {
+            content: "";
+            display: block;
+            height: 4px;
+            background: none;
+            position: absolute;
+            top: 30px;
+            right: 50%;
+            width: 50%;
+            -webkit-transition: 0.5s;
+            transition: all 0.5s;
+        }
 
     @include mobile {
       margin: 0 10px;
