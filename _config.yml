@@ -8,9 +8,6 @@ name: ZHANGWW
 # Short bio or description (displayed in the header)
 description: 原谅我这一生不羁放纵爱自由。
 
-paginate: 1
-
-paginate_path: "/page:num"
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
